@@ -2,25 +2,25 @@
 
 ## 📌 Project Overview
 
-The **Water Cleaning Robot** is an embedded-system-based project designed to reduce manual effort involved in collecting floating waste from water surfaces.
+The **Water Cleaning Robot** is an embedded-systems-based project designed to reduce manual effort involved in collecting floating waste from water surfaces.
 
-The system uses an Arduino-controlled mechanism and DC motors to operate the robot and collect waste efficiently.
+The project focuses on developing a DC motor-driven waste collection mechanism for efficient waste pickup and operation.
 
 ## 🎯 Objectives
 
 - Reduce manual effort in water cleaning
 - Develop a mechanism for collecting floating waste
-- Use DC motors for movement and operation
-- Design an efficient waste collection mechanism
+- Use DC motors for waste collection and operation
+- Design an efficient waste pickup mechanism
 - Apply embedded systems concepts to an environmental application
 
 ## ⚙️ How It Works
 
-1. The Arduino controls the operation of the system.
-2. DC motors drive the required mechanical movement.
-3. The waste collection mechanism moves through the water surface.
-4. Floating waste is collected using the designed mechanism.
-5. The system helps reduce manual effort during waste collection.
+1. The system uses an Arduino-based control setup.
+2. DC motors operate the waste collection mechanism.
+3. The mechanism moves through the water surface.
+4. Floating waste is collected using the designed pickup mechanism.
+5. The system helps reduce manual effort involved in waste collection.
 
 ## 🛠️ Technologies Used
 
@@ -32,11 +32,11 @@ The system uses an Arduino-controlled mechanism and DC motors to operate the rob
 
 ## 🔧 Key Features
 
-- Arduino-based control system
-- DC motor-driven operation
-- Floating waste collection mechanism
-- Designed to reduce manual effort
-- Application of embedded systems in water cleaning
+- Arduino-based control
+- DC motor-driven waste collection mechanism
+- Designed for floating waste pickup
+- Reduces manual effort
+- Embedded-system-based operation
 
 ## 🎓 Academic Project
 
@@ -45,10 +45,10 @@ The system uses an Arduino-controlled mechanism and DC motors to operate the rob
 
 ## 👨‍💻 My Contribution
 
-- Worked on the development of the water cleaning robot.
-- Contributed to the design of the DC motor-driven waste collection mechanism.
+- Contributed to the development of the water cleaning system.
+- Designed the DC motor-driven waste collection mechanism.
 - Worked with Arduino and embedded system components.
-- Contributed to the design and operation of the waste collection mechanism.
+- Contributed to the design and operation of the waste pickup mechanism.
 
 ---
 
